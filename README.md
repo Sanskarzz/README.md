@@ -6,7 +6,8 @@
 - 📫 You can reach me on sanskardevops@gmail.com
 - 🧑‍🍳 Outside tech, I am a decent Cook!
 
--<h3> Tech-stack </h3>
+
+- <h3> Tech-stack </h3>
 ![Go](https://img.shields.io/badge/Go-%2300599C.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -16,3 +17,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🔗 [Contact Me]
