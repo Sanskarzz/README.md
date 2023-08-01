@@ -2,7 +2,7 @@
 ## ***About me***
 - 👋 Hi, I’m Sanskar Gurdasani
 - 👀 I’m interested in joining open source communities and learn while contributing   
-- 🌱 I’m currently learning DevOps , Backend development in Golang and Kubernetes Security
+- 🌱 I’m currently learning and practicing DevOps , Kubernetes Security and Backend Engineering with Golang
 - 📫 You can reach me on sanskardevops@gmail.com
 - 🧑‍🍳 Outside tech, I am a decent Cook!
 
